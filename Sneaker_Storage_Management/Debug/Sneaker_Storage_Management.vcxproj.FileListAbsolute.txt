@@ -1,0 +1,2 @@
+D:\source\repos\Sneaker_Storage_Management\Sneaker_Storage_Management\Debug\Sneaker_Storage_Management.exe
+D:\source\repos\Sneaker_Storage_Management\Sneaker_Storage_Management\Debug\Sneaker_Storage_Management.pdb
